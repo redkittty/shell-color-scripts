@@ -1,12 +1,13 @@
 # Maintainer: Derek Taylor (DistroTube) <derek@distrotube.com>
 # Contributor: Kunkgg <goukun07@gmail.com>
+# Forked by envixty (redkittty on Github)
 pkgname=shell-color-scripts
 _pkgname=shell-color-scripts
 pkgver=1.1.r112.2607a72
 pkgrel=1
 pkgdesc="A CLI for the collection of terminal color scripts. Included 52 beautiful terminal color scripts."
 arch=('i686' 'x86_64')
-url="https://gitlab.com/dwt1/shell-color-scripts.git"
+url="https://github.com/redkittty/shell-color-scripts.git"
 license=('MIT')
 groups=()
 depends=(binutils)
