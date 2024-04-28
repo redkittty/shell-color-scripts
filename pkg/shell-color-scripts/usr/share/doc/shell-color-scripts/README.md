@@ -2,12 +2,12 @@
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
 
-This is a fork of DistroTube's Color Scripts on [Gitlab](https://gitlab.com/dwt1/shell-color-scripts).
-This fork adds and removes color scripts based on my preferences
+A collection of terminal color scripts DistroTube accumulated over the years.
+Included 52 beautiful terminal color scripts.
+
+This is a fork that removes (and maybe might add more) color scripts
 
 # Installing shell-color-scripts on Arch Linux
-
-NOTE: This is the only distro that this is actually tested and used on.
 
 What you need to do in order to install on Arch Linux:
 
@@ -27,12 +27,6 @@ Finally run the pkgbuild:
 
 ```zsh
 makepkg -si
-```
-
-Or, to do it in one command, do this:
-
-```zsh
-git clone https://github.com/redkittty/shell-color-scripts.git && cd shell-color-scripts && makepkg -si
 ```
 
 # Installing shell-color-scripts on other Linux distributions

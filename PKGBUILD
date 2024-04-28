@@ -3,7 +3,7 @@
 # Forked by envixty (redkittty on Github)
 pkgname=shell-color-scripts
 _pkgname=shell-color-scripts
-pkgver=1.1.r112.2607a72
+pkgver=1.0
 pkgrel=1
 pkgdesc="A CLI for the collection of terminal color scripts. Included 52 beautiful terminal color scripts."
 arch=('i686' 'x86_64')
