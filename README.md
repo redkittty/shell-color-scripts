@@ -33,7 +33,6 @@ makepkg -si
 
 Download the source code from this repository or use a git clone:
 
-	```zsh
     git clone https://gitlab.com/dwt1/shell-color-scripts.git
 	cd shell-color-scripts
     sudo make install
@@ -46,11 +45,9 @@ Download the source code from this repository or use a git clone:
 
     # optional for fish shell completion
     sudo cp completions/colorscript.fish /usr/share/fish/vendor_completions.d
-    ```
 
 # Usage
 
-    ```zsh
     colorscript --help
     Description: A collection of terminal color scripts.
 
@@ -61,19 +58,14 @@ Download the source code from this repository or use a git clone:
     -e, --exec, exec        	Run a specified color script by SCRIPT NAME or INDEX.
     -a, --all, all          	List the outputs of all colorscripts with their SCRIPT NAME
     -b, --blacklist, blacklist	Blacklist a color script by SCRIPT NAME or INDEX.
-    ```
 
 # The Scripts Are Located in /opt/shell-color-scripts/colorscripts
 
 The source for shell-color-scripts is placed in:
 
-	```zsh
     /opt/shell-color-scripts/colorscripts
-    ```
 
 For even more fun, add the following line to your .bashrc or .zshrc and you will run a random color script each time you open a terminal:
 
-	```zsh
     ### RANDOM COLOR SCRIPT ###
 	colorscript random
-    ```
