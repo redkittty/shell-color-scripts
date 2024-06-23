@@ -2,6 +2,11 @@
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
 
+
+# NOTE: THIS PROJECT IS ABANDONED
+Use the original version instead [Gitlab](https://gitlab.com/dwt1/shell-color-scripts).
+
+# About
 This is a fork of DistroTube's Color Scripts on [Gitlab](https://gitlab.com/dwt1/shell-color-scripts).
 
 This fork adds and removes color scripts based on my preferences
